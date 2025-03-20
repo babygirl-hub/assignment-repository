@@ -1,4 +1,4 @@
-explain code cmputing; 
+explain code computing; 
 
 
 # assignment-repository
